@@ -45,12 +45,12 @@ msgid "Mark previous episodes as watched"
 msgstr "Marquer les épisodes précédents comme vus"
 
 msgctxt "#30009"
-msgid "Update status when marking as viewed in XBMC"
-msgstr "Mettre à jour quand l'épisode est marqué comme vu dans XBMC"
+msgid "Update status when marking as viewed in Kodi"
+msgstr "Mettre à jour quand l'épisode est marqué comme vu dans Kodi"
 
 msgctxt "#30010"
-msgid "Update status when marking as not viewed in XBMC"
-msgstr "Mettre à jour quand l'épisode est marqué comme non vu dans XBMC"
+msgid "Update status when marking as not viewed in Kodi"
+msgstr "Mettre à jour quand l'épisode est marqué comme non vu dans Kodi"
 
 msgctxt "#30011"
 msgid "Automatically add new watched shows"
